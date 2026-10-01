@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "bunnyclient:font/bunny.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE000"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "bunnyclient",
+  "version": "${version}",
+  "name": "Bunny Client",
+  "description": "A lightweight, modern standalone client mod for Minecraft 1.21.11 with full VulkanMod compatibility, HUD modules, QOL improvements, and Discord RPC.",
+  "authors": [
+    "Bunny Client Team"
+  ],
+  "contact": {
+    "sources": "https://github.com/example/bunny-client"
+  },
+  "license": "MIT",
+  "icon": "assets/bunnyclient/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.bunnyclient.BunnyClient"
+    ]
+  },
+  "mixins": [
+    "bunnyclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category.bunnyclient.general": "Bunny Client",
+  "key.bunnyclient.open_menu": "Open Bunny Client Menu",
+  "key.bunnyclient.zoom": "Zoom Camera",
+  "key.bunnyclient.toggle_sprint": "Toggle Sprint",
+  "key.bunnyclient.toggle_sneak": "Toggle Sneak",
+  "key.bunnyclient.toggle_hitboxes": "Toggle Hitboxes",
+  "key.bunnyclient.toggle_fullbright": "Toggle Fullbright",
+
+  "bunnyclient.menu.title": "Bunny Client Settings",
+  "bunnyclient.menu.subtitle": "Vulkan Optimized | Clean & Fast",
+  "bunnyclient.menu.edit_hud": "Edit HUD Positions",
+  "bunnyclient.menu.reset_hud": "Reset HUD Positions",
+  "bunnyclient.menu.save_hud": "Save & Exit HUD Editor",
+  "bunnyclient.menu.tabs.modules": "HUD Modules",
+  "bunnyclient.menu.tabs.qol": "QOL Settings",
+  "bunnyclient.menu.tabs.performance": "Performance",
+  "bunnyclient.menu.tabs.cosmetics": "Cosmetics",
+  "bunnyclient.menu.tabs.discord": "Discord RPC",
+
+  "bunnyclient.module.fps": "FPS Counter",
+  "bunnyclient.module.coords": "Coordinates & Biome",
+  "bunnyclient.module.armor": "Armor & Item Status",
+  "bunnyclient.module.potions": "Potion Effects",
+  "bunnyclient.module.keystrokes": "Keystrokes (WASD)",
+  "bunnyclient.module.cps": "CPS Counter",
+  "bunnyclient.module.ping": "Ping Display",
+  "bunnyclient.module.sprint_status": "Sprint / Sneak Status",
+
+  "bunnyclient.qol.zoom": "Smooth Zoom",
+  "bunnyclient.qol.fullbright": "Fullbright (Gamma Boost)",
+  "bunnyclient.qol.toggle_sprint": "Toggle Sprint",
+  "bunnyclient.qol.toggle_sneak": "Toggle Sneak",
+  "bunnyclient.qol.hitboxes": "Hitboxes Visible",
+  "bunnyclient.qol.custom_crosshair": "Custom Crosshair",
+
+  "bunnyclient.perf.entity_culling": "Entity Frustum Culling",
+  "bunnyclient.perf.particle_limiter": "Particle Limiter",
+
+  "bunnyclient.cosmetics.bunny_badge": "Bunny Badge [🐰] Before Name",
+  "bunnyclient.cosmetics.lunar_title_screen": "Lunar-Style Title Screen",
+
+  "bunnyclient.discord.rpc": "Discord Rich Presence",
+  "bunnyclient.discord.show_server": "Show Server IP on Discord"
+}
