@@ -1,3 +1,5 @@
+checkout the website at clientbunny.github.io
+
 AI WAS USED IN SOME PARTS OF THE CODE SINCE I COULDNT FIGURE SOME THINGS OUT, LIKE KEYSTROKES
 
 # 🐰 Bunny Client (Minecraft 1.21.11)
